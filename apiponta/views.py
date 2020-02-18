@@ -12,6 +12,8 @@ def get_species(request):
     """Endpoint que responde com resultado da busca.
 
     Modelo da URL: www.example.com/quati/species/search/?q=puma
+    
+    local http://127.0.0.1:8000/quati/species/search/?q=Puma
 
     """
     

@@ -1,0 +1,1 @@
+web: gunicorn apiponta.wsgi --log-file -
